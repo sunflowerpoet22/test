@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hidden Image</title>
+</head>
+<body>
+    <h1>Hidden Image</h1>
+    <img src="C:\Users\nisha\Pictures\random\test.png" alt="Hidden Image">
+</body>
+</html>
